@@ -19,19 +19,23 @@ function App() {
     <Switch>
       <Route path="/" exact component={Home}/>
       <Route path="/Vowels" exact component={Vowels}/>
-      <Route path="/Constents" exact component={Constents}/>
+      <Route path="/Consonents" exact component={Consonents}/>
+      <Route path="/Numbers" exact component={Numbers}/>
     </Switch>
      </>
   )
 }
 
 
-function Constents() {
-  return <h2>Constents</h2>;
+function Consonents() {
+  return (<p>Consonents</p>);
 }
 
 function Vowels() {
-  return <h2>Vowels</h2>;
+  return (<p>Vowels</p>);
 }
 
+function Numbers() {
+  return (<p>Numbers</p>);
+}
 export default App;

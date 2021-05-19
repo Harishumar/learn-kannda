@@ -15,40 +15,25 @@ const Navbar = () => {
             <div class="collapsible-body">
               <ul>
                 <li><Link url="/Vowels" className="sidenav-close">Vowels</Link></li>
-                <li><Link url="/Constents" className="sidenav-close">Constents</Link></li>
+                <li><Link url="/Consonents" className="sidenav-close">Consonents</Link></li>
                 <li><Link url="/Numbers" className="sidenav-close">Numbers</Link></li>
               </ul>
             </div>
           </li>
         </ul>
       </li>
-        <li>
-          <Link url="/" className="sidenav-close">
-            Vowels
-          </Link>
-        </li>
-        <li>
-          <Link className="sidenav-close" url="/Constents">Constents</Link>
-        </li>
-        <li>
-          <Link className="sidenav-close" url="/Vowels">Vowels</Link>
-        </li>
-        <li>
-          <Link className="sidenav-close" url="/Numbers">Numbers</Link>
-        </li>
+        
         <li>
           <div className="divider"></div>
         </li>
         <li>
-          <Link className="sidenav-close" className="subheader">Share</Link>
+          <Link className="sidenav-close" url="/">Share</Link>
         </li>
         <li>
-          <Link className="sidenav-close subheader">Help</Link>
+          <Link className="sidenav-close" url="/">Help</Link>
         </li>
         <li>
-          <Link className="sidenav-close subheader" url="/">
-            About
-          </Link>
+          <Link className="sidenav-close" url="/">About</Link>
         </li>
 
       </ul>
