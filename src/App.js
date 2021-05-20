@@ -22,8 +22,8 @@ function App() {
     <Switch>
       <Route path="/" exact component={Home}/>
       <Route path="/Vowels" exact component={Vowels}/>
-      <Route path="/Consonents" exact component={Consonents}/>
-      <Route path="/Numbers" exact component={Numbers}/>
+      {/* <Route path="/Consonents" exact component={Consonents}/>
+      <Route path="/Numbers" exact component={Numbers}/> */}
     </Switch>
      </>
   )
