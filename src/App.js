@@ -1,6 +1,9 @@
 import React,{useEffect, useState} from 'react';
 import {Switch,Route} from 'react-router-dom'
 import Home from "./components/home"
+import Vowels from "./components/Vowel"
+import Consonents from "./components/Consonents"
+import Numbers from "./components/Number"
 import "./App.css";
 import Navbar from "./components/navbar";
 import * as M from "materialize-css/dist/js/materialize.min.js"
@@ -27,15 +30,15 @@ function App() {
 }
 
 
-function Consonents() {
-  return (<p>Consonents</p>);
-}
+// function Consonents() {
+//   return (<p>Consonents</p>);
+// }
 
-function Vowels() {
-  return (<p>Vowels</p>);
-}
+// function Vowels() {
+//   return (<p>Vowels</p>);
+// }
 
-function Numbers() {
-  return (<p>Numbers</p>);
-}
+// function Numbers() {
+//   return (<p>Numbers</p>);
+// }
 export default App;
