@@ -2,17 +2,19 @@ const Vowels = () => {
     return (
     <>
     <p>Welcome to VowelScreen !!!</p>
+    
     <div class="row" >
     <div class="col s4 m1">
       <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">A</span>
+        <span class="white-text"><img src="./components/Vowel/Vowel-image" alt=""/>A</span>
+        
       </div>
     </div>
   </div>
   <div class="row" >
     <div class="col s4 m1">
       <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">AA</span>
+        <span class="white-text">Ā</span>ಆ
       </div>
     </div>
   </div>
