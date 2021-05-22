@@ -1,7 +1,7 @@
 const Numbers = () => {
     return (<><p>Welcome to NumberScreen !!!</p>
     <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2 ">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೦</i>
        <br/><i className="material-icons right">0</i>
@@ -10,7 +10,7 @@ const Numbers = () => {
     </div>
   </div>
   <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೧</i>
        <br/><i className="material-icons right">1</i>
@@ -19,7 +19,7 @@ const Numbers = () => {
     </div>
   </div>
   <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೨	</i>
        <br/><i className="material-icons right">2</i>
@@ -28,7 +28,7 @@ const Numbers = () => {
     </div>
   </div>
   <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೩</i>
        <br/><i className="material-icons right">3</i>
@@ -37,7 +37,7 @@ const Numbers = () => {
     </div>
   </div>
   <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೪</i>
        <br/><i className="material-icons right">4</i>
@@ -46,7 +46,7 @@ const Numbers = () => {
     </div>
   </div>
   <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೫</i>
        <br/><i className="material-icons right">5</i>
@@ -55,7 +55,7 @@ const Numbers = () => {
     </div>
   </div>
   <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೬</i>
        <br/><i className="material-icons right">6</i>
@@ -64,7 +64,7 @@ const Numbers = () => {
     </div>
   </div>
   <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೭</i>
        <br/><i className="material-icons right">7</i>
@@ -73,7 +73,7 @@ const Numbers = () => {
     </div>
   </div>
   <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೮</i>
        <br/><i className="material-icons right">8</i>
@@ -82,7 +82,7 @@ const Numbers = () => {
     </div>
   </div>
   <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೯</i>
        <br/><i className="material-icons right">9</i>
@@ -90,9 +90,9 @@ const Numbers = () => {
       </div>
     </div>
   </div>
-  
+
   <div className="row" >
-    <div className="col s8 m1">
+    <div className="col s4 m3 l2">
       <div className="card-panel #29b6f6 light-blue lighten-1">
       <span className="white-text"><i className="material-icons right">೧೦</i>
        <br/><i className="material-icons right">10</i><br/><i className="material-icons right">hattu (ಹತ್ತು)</i></span> 
