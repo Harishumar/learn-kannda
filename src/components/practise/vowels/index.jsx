@@ -19,7 +19,7 @@ let answer=(<div style={{display:'flex',justifyContent:'space-between',alignItem
         <div className="container">
           <div className="row" style={{ marginTop: "15%" }}>
             <div className="col s12 m2"></div>
-            <div className="col s12 m8 ">
+              <div className="col s12 m8 ">
               <div className="card">
                 <div className="card-content">
                   <div
