@@ -3,88 +3,88 @@ const Vowels = () => {
     <>
     <p>Welcome to VowelScreen !!!</p>
     
-    <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text"><img src="./components/Vowel/Vowel-image" alt=""/>A</span>
+    <div className="row" >
+    <div className="col s8 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+      <span className="white-text">A</span><br/>
         
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">Ā</span>ಆ
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+       <span  className="white-text">ಆ</span><br/><span  className="white-text">Ā</span>
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">I</span>
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+        <span className="white-text">I</span><br/>
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">EE</span>
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+        <span className="white-text">EE</span><br/>
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">U</span>
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+        <span className="white-text">U</span><br/>
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">OO</span>
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+        <span className="white-text">OO</span><br/>
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">E</span>
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+        <span className="white-text">E</span><br/>
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">AI</span>
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+        <span className="white-text">AI</span><br/>
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">O</span>
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+        <span className="white-text">O</span><br/>
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">AU</span>
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+        <span className="white-text">AU</span><br/>
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">AN</span>
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+        <span className="white-text">AN</span><br/>
       </div>
     </div>
   </div>
-  <div class="row" >
-    <div class="col s4 m1">
-      <div class="card-panel #29b6f6 light-blue lighten-1">
-        <span class="white-text">AH</span>
+  <div className="row" >
+    <div className="col s4 m1">
+      <div className="card-panel #29b6f6 light-blue lighten-1">
+        <span className="white-text">AH</span><br/>
       </div>
     </div>
   </div>

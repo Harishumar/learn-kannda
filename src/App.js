@@ -1,8 +1,8 @@
 import React,{useEffect, useState} from 'react';
 import {Switch,Route} from 'react-router-dom'
 import Home from "./components/home"
-import Vowels from "./components/Vowel"
-import Consonents from "./components/Consonents"
+import Vowels from "./components/vowel"
+import Consonants from "./components/Consonants"
 import Numbers from "./components/Number"
 import "./App.css";
 import Navbar from "./components/navbar";
@@ -22,16 +22,16 @@ function App() {
     <Switch>
       <Route path="/" exact component={Home}/>
       <Route path="/Vowels" exact component={Vowels}/>
-      {/* <Route path="/Consonents" exact component={Consonents}/>
-      <Route path="/Numbers" exact component={Numbers}/> */}
+      <Route path="/Consonants" exact component={Consonants}/>
+      <Route path="/Numbers" exact component={Numbers}/>
     </Switch>
      </>
   )
 }
 
 
-// function Consonents() {
-//   return (<p>Consonents</p>);
+// function Consonants() {
+//   return (<p>Consonants</p>);
 // }
 
 // function Vowels() {

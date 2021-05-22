@@ -15,7 +15,7 @@ const Navbar = () => {
             <div class="collapsible-body">
               <ul>
                 <li><Link url="/Vowels" className="sidenav-close">Vowels</Link></li>
-                <li><Link url="/Consonents" className="sidenav-close">Consonents</Link></li>
+                <li><Link url="/Consonants" className="sidenav-close">Consonants</Link></li>
                 <li><Link url="/Numbers" className="sidenav-close">Numbers</Link></li>
               </ul>
             </div>
